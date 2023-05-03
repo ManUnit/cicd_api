@@ -1,7 +1,7 @@
 #CI/CD API
-- Screen shot  with integrated wit frontend 
+- Screen shot  with integrated wit frontend Docker controller
 ![CiCD-Center](https://github.com/ManUnit/cicd_api/raw/master/CiCD-Center.png)
-
-![CiCD-Center](https://github.com/ManUnit/cicd_api/raw/master/CiCD-SYN.png)
+- Screen shot  with integrated wit frontend Subversion controller
+![CiCD-Center](https://github.com/ManUnit/cicd_api/blob/master/QA_SYN.png?raw=true)
 
 
